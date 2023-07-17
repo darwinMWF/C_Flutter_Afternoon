@@ -1,13 +1,17 @@
 #include<stdio.h>
 int main(){
-    int a = 10;
+    int a = 18;
     int b = 9;
      
-     if (/* condition */)
+     if (a<b)
      {
-        /* code */
+       printf("A is smaller Than B");
      }
-     
+        else{
+        printf("b is Bigger Than a");
+     }
+    
+    
 
 
     return 0;
