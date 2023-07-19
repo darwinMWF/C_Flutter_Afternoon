@@ -28,7 +28,6 @@ int main()
         i++;
     }
 
-    
     // Do While Loop
     do
     {

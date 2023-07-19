@@ -1,8 +1,8 @@
-#include<stdio.h>   
+#include<stdio.h>    
 int main()
 {
 //     float A=194.143;
-//     int a=12;
+    // int a=12;
 //     int a=12;
 //     char c[] = "Atul";
 //     char C = 'A';
