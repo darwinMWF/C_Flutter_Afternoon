@@ -1,10 +1,10 @@
-#include<stdio.h>
-int main()
-{
+#include<stdio.h>   //Header Library
+int main()         //Main Function
+{ 
     int sw;
     int a =10;
     int b =20;
-    printf("Enter A number:");
+    printf("Enter A number:"); //Built In Function
     scanf("%d",&sw);
    switch (sw)
    {
