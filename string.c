@@ -9,7 +9,8 @@ int main()
 //   {
 //    printf("%c\n",a[i]);
 //   }
-  
+
+
 //MultiLine String
 
 char name[50];
